@@ -47,3 +47,9 @@ header h2 {
 #reserveHeader {
     font-family: "Lobster", cursive;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
